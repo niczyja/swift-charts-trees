@@ -1,2 +1,3 @@
-# swift-charts-trees
-Exploration of Swift Charts using Warsaw City's public data 
+# Warsaw Trees Stats
+
+Exploring SwiftUI features using Warsaw City's public data
